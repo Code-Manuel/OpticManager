@@ -1,8 +1,6 @@
 # OpticPatientManager
 
-Gestionale per la gestione di pazienti e prescrizioni ottiche, 
-sviluppato su richiesta di un ottico professionista operante presso una 
-clinica privata (Casa di Cura, Decimomannu).
+Gestionale per la gestione di pazienti e prescrizioni ottiche.
 
 ## Obiettivo
 Digitalizzare la gestione quotidiana di uno studio optometrico: 
