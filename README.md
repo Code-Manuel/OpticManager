@@ -5,7 +5,7 @@ Gestionale per la gestione di pazienti e prescrizioni ottiche.
 ## Obiettivo
 Digitalizzare la gestione quotidiana di uno studio optometrico: 
 anagrafica pazienti, storico controlli della vista, prescrizioni di 
-lenti/occhiali, ed export in PDF dei referti — sostituendo la 
+lenti/occhiali, ed export in PDF dei referti, sostituendo la 
 gestione cartacea con un sistema semplice, affidabile e utilizzabile 
 in locale, senza necessità di connessione internet o infrastrutture 
 esterne.
